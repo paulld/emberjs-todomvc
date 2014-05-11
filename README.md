@@ -1,4 +1,6 @@
 emberjs-todomvc1
 ================
 
-Testing Ember.js - creating the TodoMVC app - following the instruction from http://emberjs.com/guides/getting-started
+Testing Ember.js
+Creating the TodoMVC app
+Following the instruction from http://emberjs.com/guides/getting-started
